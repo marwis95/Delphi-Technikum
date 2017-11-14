@@ -1,0 +1,36 @@
+<HTML>
+
+<HEAD>
+<meta http-equiv="Content-Language" content="pl">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<title>Znaki</title>
+<link rel="stylesheet" href="comp.css" type="text/css">
+</HEAD>
+<body>
+<center><img src="znaki_pas.jpg"></center>
+Ten program wypisuje wszystkie znaki z tablicy ASCII.<br>
+W tym programie będzie trzeba użyć zmiennej typu char-jest to zmienna z jednym znakiem.<br>
+Jest też zastosowana pętla for która wykona się Byte(256)razy.<br>
+Musiałem użyś też funkcji delay. Wygląda tak: delay(100);- jest to opóźnienie. Jego czas podaje się w 1/1000 sekundy.<br><br>
+Tradycyjnie poniżej podaję źródło<br>
+<table border="1" width="400" height="500">
+<tr>
+<td>
+uses crt;<br>
+var<br>
+   a:char;<br>
+   i:byte;<br>
+begin<br>
+clrscr;<br>
+for i:=0 to 255 do<br>
+    begin<br>
+    a:=chr(i);<br>
+    writeln(a);<br>
+    delay(100);<br>
+    end;<br>
+
+end.<br>
+</td>
+</tr>
+</table>
+<a href="znaki.rar"><img src="download.jpg" border="0" width="150" height="100"></a>

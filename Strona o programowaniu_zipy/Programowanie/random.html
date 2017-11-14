@@ -1,0 +1,37 @@
+<HTML>
+
+<HEAD>
+<meta http-equiv="Content-Language" content="pl">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<title>Random</title>
+<link rel="stylesheet" href="comp.css" type="text/css">
+</HEAD>
+<body>
+<center><img src="random_pas.jpg"></center>
+Ten program losuje 2 liczby jedną(a) z zakresu od 0 do 100, a drugą(b) z zakresu od 0 do 90.<br>
+Użycie funkcji random jest bardo proste.<br>
+Najpierw wpisujemy randomize;-aby wywołać losowanie.<br>
+Następnie podajemy zakres(a:=random(100);).<br>
+Wazne jest, że wylosowaną liczbę należy podstawić do jakiejś zmiennej(w tym przypadku real)<br><br>
+Niżej zamieszczam kod źródłowy<br>
+<table border="1" width="400" height="500">
+<tr>
+<td>
+uses crt;<br>
+var<br>
+   a:real;<br>
+   b:real;<br>
+begin<br>
+     clrscr;<br>
+     randomize;<br>
+     a:= random(100);<br>
+     writeln(a:5:5);<br>
+     b:=random(90);<br>
+     writeln(b:5:5);<br>
+
+     repeat until keypressed;<br>
+end.<br>
+</td>
+</tr>
+</table>
+<a href="random.rar"><img src="download.jpg" border="0" width="150" height="100"></a>

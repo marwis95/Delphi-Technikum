@@ -1,0 +1,1117 @@
+object Form1: TForm1
+  Left = 245
+  Top = 108
+  Width = 1043
+  Height = 843
+  Caption = 'Bry³y'
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 712
+    Top = 392
+    Width = 130
+    Height = 13
+    Caption = 'Okreœl dok³adnoœæ liczby pi'
+  end
+  object Label2: TLabel
+    Left = 584
+    Top = 448
+    Width = 408
+    Height = 13
+    Caption = 
+      '(3,14159 26535 89793 23846 26433 83279 50288 41971 69399 37510 5' +
+      '8209 74944)'
+  end
+  object Label3: TLabel
+    Left = 104
+    Top = 48
+    Width = 118
+    Height = 24
+    Caption = 'Graniastos³up'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 16
+    Top = 80
+    Width = 14
+    Height = 24
+    Caption = 'H'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label5: TLabel
+    Left = 16
+    Top = 120
+    Width = 23
+    Height = 24
+    Caption = 'Pp'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label6: TLabel
+    Left = 16
+    Top = 192
+    Width = 13
+    Height = 24
+    Caption = 'V'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label7: TLabel
+    Left = 160
+    Top = 80
+    Width = 23
+    Height = 24
+    Caption = 'Pp'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label8: TLabel
+    Left = 160
+    Top = 128
+    Width = 23
+    Height = 24
+    Caption = 'Pb'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label9: TLabel
+    Left = 160
+    Top = 192
+    Width = 22
+    Height = 24
+    Caption = 'Pc'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label10: TLabel
+    Left = 440
+    Top = 48
+    Width = 76
+    Height = 24
+    Caption = 'Szeœcian'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label11: TLabel
+    Left = 328
+    Top = 80
+    Width = 10
+    Height = 24
+    Caption = 'a'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label12: TLabel
+    Left = 328
+    Top = 152
+    Width = 13
+    Height = 24
+    Caption = 'V'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label13: TLabel
+    Left = 472
+    Top = 80
+    Width = 10
+    Height = 24
+    Caption = 'a'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label14: TLabel
+    Left = 120
+    Top = 256
+    Width = 84
+    Height = 24
+    Caption = 'Ostros³up'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label15: TLabel
+    Left = 8
+    Top = 288
+    Width = 23
+    Height = 24
+    Caption = 'Pp'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label16: TLabel
+    Left = 8
+    Top = 328
+    Width = 14
+    Height = 24
+    Caption = 'H'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label17: TLabel
+    Left = 160
+    Top = 288
+    Width = 23
+    Height = 24
+    Caption = 'Pp'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label18: TLabel
+    Left = 160
+    Top = 328
+    Width = 23
+    Height = 24
+    Caption = 'Pb'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label19: TLabel
+    Left = 472
+    Top = 152
+    Width = 22
+    Height = 24
+    Caption = 'Pc'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label20: TLabel
+    Left = 8
+    Top = 400
+    Width = 13
+    Height = 24
+    Caption = 'V'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label21: TLabel
+    Left = 160
+    Top = 400
+    Width = 22
+    Height = 24
+    Caption = 'Pc'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label22: TLabel
+    Left = 424
+    Top = 216
+    Width = 148
+    Height = 24
+    Caption = 'Prostopad³oœcian'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label23: TLabel
+    Left = 320
+    Top = 248
+    Width = 10
+    Height = 24
+    Caption = 'a'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label24: TLabel
+    Left = 320
+    Top = 288
+    Width = 11
+    Height = 24
+    Caption = 'b'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label25: TLabel
+    Left = 320
+    Top = 328
+    Width = 14
+    Height = 24
+    Caption = 'H'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label26: TLabel
+    Left = 480
+    Top = 248
+    Width = 10
+    Height = 24
+    Caption = 'a'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label27: TLabel
+    Left = 480
+    Top = 288
+    Width = 11
+    Height = 24
+    Caption = 'b'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label28: TLabel
+    Left = 320
+    Top = 400
+    Width = 13
+    Height = 24
+    Caption = 'V'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label29: TLabel
+    Left = 480
+    Top = 328
+    Width = 14
+    Height = 24
+    Caption = 'H'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label30: TLabel
+    Left = 144
+    Top = 464
+    Width = 37
+    Height = 24
+    Caption = 'Kula'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label31: TLabel
+    Left = 8
+    Top = 496
+    Width = 13
+    Height = 24
+    Caption = 'R'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label32: TLabel
+    Left = 8
+    Top = 568
+    Width = 13
+    Height = 24
+    Caption = 'V'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label33: TLabel
+    Left = 160
+    Top = 496
+    Width = 13
+    Height = 24
+    Caption = 'R'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label34: TLabel
+    Left = 160
+    Top = 568
+    Width = 22
+    Height = 24
+    Caption = 'Pc'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label35: TLabel
+    Left = 448
+    Top = 464
+    Width = 56
+    Height = 24
+    Caption = 'Sto¿ek'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label36: TLabel
+    Left = 320
+    Top = 496
+    Width = 13
+    Height = 24
+    Caption = 'R'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label37: TLabel
+    Left = 480
+    Top = 400
+    Width = 22
+    Height = 24
+    Caption = 'Pc'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label38: TLabel
+    Left = 320
+    Top = 536
+    Width = 14
+    Height = 24
+    Caption = 'H'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label39: TLabel
+    Left = 320
+    Top = 608
+    Width = 13
+    Height = 24
+    Caption = 'V'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label40: TLabel
+    Left = 480
+    Top = 496
+    Width = 13
+    Height = 24
+    Caption = 'R'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label41: TLabel
+    Left = 480
+    Top = 536
+    Width = 10
+    Height = 24
+    Caption = 'L'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label42: TLabel
+    Left = 480
+    Top = 608
+    Width = 22
+    Height = 24
+    Caption = 'Pc'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label43: TLabel
+    Left = 744
+    Top = 48
+    Width = 53
+    Height = 24
+    Caption = 'Walec'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label44: TLabel
+    Left = 648
+    Top = 80
+    Width = 13
+    Height = 24
+    Caption = 'R'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label45: TLabel
+    Left = 648
+    Top = 120
+    Width = 14
+    Height = 24
+    Caption = 'H'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label46: TLabel
+    Left = 648
+    Top = 192
+    Width = 13
+    Height = 24
+    Caption = 'V'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label47: TLabel
+    Left = 792
+    Top = 80
+    Width = 23
+    Height = 24
+    Caption = 'Pb'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label48: TLabel
+    Left = 792
+    Top = 120
+    Width = 23
+    Height = 24
+    Caption = 'Pp'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label49: TLabel
+    Left = 792
+    Top = 192
+    Width = 22
+    Height = 24
+    Caption = 'Pc'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Edit1: TEdit
+    Left = 688
+    Top = 416
+    Width = 217
+    Height = 21
+    TabOrder = 0
+    OnChange = Edit1Change
+  end
+  object Edit2: TEdit
+    Left = 48
+    Top = 80
+    Width = 81
+    Height = 21
+    TabOrder = 1
+    OnChange = Edit2Change
+  end
+  object Edit3: TEdit
+    Left = 48
+    Top = 120
+    Width = 81
+    Height = 21
+    TabOrder = 2
+    OnChange = Edit3Change
+  end
+  object Edit4: TEdit
+    Left = 48
+    Top = 192
+    Width = 81
+    Height = 21
+    Cursor = crNo
+    ReadOnly = True
+    TabOrder = 3
+  end
+  object Button1: TButton
+    Left = 16
+    Top = 152
+    Width = 113
+    Height = 25
+    Caption = 'Licz objêtoœæ'
+    TabOrder = 4
+    OnClick = Button1Click
+  end
+  object Edit5: TEdit
+    Left = 200
+    Top = 80
+    Width = 81
+    Height = 21
+    TabOrder = 5
+    OnChange = Edit5Change
+  end
+  object Edit6: TEdit
+    Left = 200
+    Top = 120
+    Width = 81
+    Height = 21
+    TabOrder = 6
+    OnChange = Edit6Change
+  end
+  object Button2: TButton
+    Left = 168
+    Top = 152
+    Width = 113
+    Height = 25
+    Caption = 'Licz pole'
+    TabOrder = 7
+    OnClick = Button2Click
+  end
+  object Edit7: TEdit
+    Left = 200
+    Top = 192
+    Width = 81
+    Height = 21
+    Cursor = crNo
+    ReadOnly = True
+    TabOrder = 8
+  end
+  object Edit8: TEdit
+    Left = 360
+    Top = 80
+    Width = 81
+    Height = 21
+    TabOrder = 9
+    OnChange = Edit8Change
+  end
+  object Button3: TButton
+    Left = 328
+    Top = 112
+    Width = 113
+    Height = 25
+    Caption = 'Licz objêtoœæ '
+    TabOrder = 10
+    OnClick = Button3Click
+  end
+  object Edit9: TEdit
+    Left = 360
+    Top = 152
+    Width = 81
+    Height = 21
+    Cursor = crNo
+    ReadOnly = True
+    TabOrder = 11
+  end
+  object Edit10: TEdit
+    Left = 512
+    Top = 80
+    Width = 81
+    Height = 21
+    TabOrder = 12
+    OnChange = Edit10Change
+  end
+  object Button4: TButton
+    Left = 480
+    Top = 112
+    Width = 113
+    Height = 25
+    Caption = 'Licz pole'
+    TabOrder = 13
+    OnClick = Button4Click
+  end
+  object Edit11: TEdit
+    Left = 512
+    Top = 152
+    Width = 81
+    Height = 21
+    Cursor = crNo
+    ReadOnly = True
+    TabOrder = 14
+  end
+  object Edit12: TEdit
+    Left = 48
+    Top = 288
+    Width = 81
+    Height = 21
+    TabOrder = 15
+    OnChange = Edit12Change
+  end
+  object Edit13: TEdit
+    Left = 48
+    Top = 328
+    Width = 81
+    Height = 21
+    TabOrder = 16
+    OnChange = Edit13Change
+  end
+  object Button5: TButton
+    Left = 16
+    Top = 360
+    Width = 113
+    Height = 25
+    Caption = 'Licz objêtoœæ'
+    TabOrder = 17
+    OnClick = Button5Click
+  end
+  object Edit14: TEdit
+    Left = 48
+    Top = 400
+    Width = 81
+    Height = 21
+    Cursor = crNo
+    ReadOnly = True
+    TabOrder = 18
+  end
+  object Edit15: TEdit
+    Left = 200
+    Top = 288
+    Width = 81
+    Height = 21
+    TabOrder = 19
+    OnChange = Edit15Change
+  end
+  object Edit16: TEdit
+    Left = 200
+    Top = 328
+    Width = 81
+    Height = 21
+    TabOrder = 20
+    OnChange = Edit16Change
+  end
+  object Button6: TButton
+    Left = 168
+    Top = 360
+    Width = 113
+    Height = 25
+    Caption = 'Licz pole'
+    TabOrder = 21
+    OnClick = Button6Click
+  end
+  object Edit17: TEdit
+    Left = 200
+    Top = 400
+    Width = 81
+    Height = 21
+    Cursor = crNo
+    ReadOnly = True
+    TabOrder = 22
+  end
+  object Edit18: TEdit
+    Left = 360
+    Top = 248
+    Width = 81
+    Height = 21
+    TabOrder = 23
+    OnChange = Edit18Change
+  end
+  object Edit19: TEdit
+    Left = 360
+    Top = 288
+    Width = 81
+    Height = 21
+    TabOrder = 24
+    OnChange = Edit19Change
+  end
+  object Edit20: TEdit
+    Left = 360
+    Top = 328
+    Width = 81
+    Height = 21
+    TabOrder = 25
+    OnChange = Edit20Change
+  end
+  object Button7: TButton
+    Left = 328
+    Top = 360
+    Width = 113
+    Height = 25
+    Caption = 'Licz objêtoœæ'
+    TabOrder = 26
+    OnClick = Button7Click
+  end
+  object Edit21: TEdit
+    Left = 360
+    Top = 400
+    Width = 81
+    Height = 21
+    Cursor = crNo
+    ReadOnly = True
+    TabOrder = 27
+  end
+  object Edit22: TEdit
+    Left = 512
+    Top = 248
+    Width = 81
+    Height = 21
+    TabOrder = 28
+    OnChange = Edit22Change
+  end
+  object Edit23: TEdit
+    Left = 512
+    Top = 288
+    Width = 81
+    Height = 21
+    TabOrder = 29
+    OnChange = Edit23Change
+  end
+  object Edit24: TEdit
+    Left = 512
+    Top = 328
+    Width = 81
+    Height = 21
+    TabOrder = 30
+    OnChange = Edit24Change
+  end
+  object Button8: TButton
+    Left = 480
+    Top = 360
+    Width = 113
+    Height = 25
+    Caption = 'Licz pole'
+    TabOrder = 31
+    OnClick = Button8Click
+  end
+  object Edit25: TEdit
+    Left = 512
+    Top = 400
+    Width = 81
+    Height = 21
+    Cursor = crNo
+    ReadOnly = True
+    TabOrder = 32
+  end
+  object Edit26: TEdit
+    Left = 48
+    Top = 496
+    Width = 81
+    Height = 21
+    TabOrder = 33
+    OnChange = Edit26Change
+  end
+  object Button9: TButton
+    Left = 16
+    Top = 528
+    Width = 113
+    Height = 25
+    Caption = 'Licz objêtoœæ '
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 34
+    OnClick = Button9Click
+  end
+  object Edit27: TEdit
+    Left = 48
+    Top = 568
+    Width = 81
+    Height = 21
+    Cursor = crNo
+    ReadOnly = True
+    TabOrder = 35
+  end
+  object Edit28: TEdit
+    Left = 200
+    Top = 496
+    Width = 81
+    Height = 21
+    TabOrder = 36
+    OnChange = Edit28Change
+  end
+  object Button10: TButton
+    Left = 168
+    Top = 528
+    Width = 113
+    Height = 25
+    Caption = 'Licz pole'
+    TabOrder = 37
+    OnClick = Button10Click
+  end
+  object Edit29: TEdit
+    Left = 200
+    Top = 568
+    Width = 81
+    Height = 21
+    Cursor = crNo
+    ReadOnly = True
+    TabOrder = 38
+  end
+  object Edit30: TEdit
+    Left = 360
+    Top = 496
+    Width = 81
+    Height = 21
+    TabOrder = 39
+    OnChange = Edit30Change
+  end
+  object Edit31: TEdit
+    Left = 360
+    Top = 536
+    Width = 81
+    Height = 21
+    TabOrder = 40
+    OnChange = Edit31Change
+  end
+  object Button11: TButton
+    Left = 328
+    Top = 568
+    Width = 113
+    Height = 25
+    Caption = 'Licz objêtoœæ'
+    TabOrder = 41
+    OnClick = Button11Click
+  end
+  object Edit32: TEdit
+    Left = 360
+    Top = 608
+    Width = 81
+    Height = 21
+    Cursor = crNo
+    ReadOnly = True
+    TabOrder = 42
+  end
+  object Edit33: TEdit
+    Left = 512
+    Top = 496
+    Width = 81
+    Height = 21
+    TabOrder = 43
+    OnChange = Edit33Change
+  end
+  object Edit34: TEdit
+    Left = 512
+    Top = 536
+    Width = 81
+    Height = 21
+    TabOrder = 44
+    OnChange = Edit34Change
+  end
+  object Button12: TButton
+    Left = 480
+    Top = 568
+    Width = 113
+    Height = 25
+    Caption = 'Licz pole'
+    TabOrder = 45
+    OnClick = Button12Click
+  end
+  object Edit35: TEdit
+    Left = 512
+    Top = 608
+    Width = 81
+    Height = 21
+    Cursor = crNo
+    ReadOnly = True
+    TabOrder = 46
+  end
+  object Edit36: TEdit
+    Left = 680
+    Top = 80
+    Width = 81
+    Height = 21
+    TabOrder = 47
+    OnChange = Edit36Change
+  end
+  object Edit37: TEdit
+    Left = 680
+    Top = 120
+    Width = 81
+    Height = 21
+    TabOrder = 48
+    OnChange = Edit37Change
+  end
+  object Button13: TButton
+    Left = 648
+    Top = 152
+    Width = 113
+    Height = 25
+    Caption = 'Licz objêtoœæ'
+    TabOrder = 49
+    OnClick = Button13Click
+  end
+  object Edit38: TEdit
+    Left = 680
+    Top = 192
+    Width = 81
+    Height = 21
+    Cursor = crNo
+    ReadOnly = True
+    TabOrder = 50
+  end
+  object Edit39: TEdit
+    Left = 832
+    Top = 80
+    Width = 81
+    Height = 21
+    TabOrder = 51
+    OnChange = Edit39Change
+  end
+  object Edit40: TEdit
+    Left = 832
+    Top = 120
+    Width = 81
+    Height = 21
+    TabOrder = 52
+    OnChange = Edit40Change
+  end
+  object Button14: TButton
+    Left = 800
+    Top = 152
+    Width = 113
+    Height = 25
+    Caption = 'Licz pole'
+    TabOrder = 53
+    OnClick = Button14Click
+  end
+  object Edit41: TEdit
+    Left = 832
+    Top = 192
+    Width = 81
+    Height = 21
+    Cursor = crNo
+    ReadOnly = True
+    TabOrder = 54
+  end
+end

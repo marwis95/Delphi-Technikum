@@ -1,0 +1,36 @@
+WBR - Bia³obrzegi
+WCI - Ciechanów
+WG - Garwolin
+WGS - Gostynin
+WGM - Grodzisk Maz.
+WGR - Grójec
+WKZ - Kozienice
+WL - Legionowo
+WLI - Lipsko
+WLS - £osice
+WMA - Maków Maz.
+WM - Miñsk Maz.
+WML - M³awa
+WND - Nowy Dwór Maz.
+WO, WOS - Ostro³êka
+WOR - Ostrów Mazowiecka
+WOT - Otwock
+WPI - Piaseczno
+WP, WPL - P³ock
+WPN - P³oñsk
+WPR - Pruszków
+WPZ - Przasnysz
+WPY - Przysucha
+WPU - Pu³tusk
+WR, WRA - Radom
+WS, WSI - Siedlce
+WSE - Sierpc
+WSC - Sochaczew
+WSK - Soko³ów Podlaski
+WSZ - Szyd³owiec
+WWE - Wêgrów
+WWL - Wo³omin
+WWY - Wyszków
+WZW - Zwoleñ
+WZU - ¯uromin
+WZY - ¯yrardów 

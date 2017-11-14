@@ -1,0 +1,13 @@
+program diagnostic;
+
+uses
+  Forms,
+  unit1 in '..\..\..\..\..\..\Documents and Settings\Marwis95\Pulpit\Delphi 7\KeySpyXP komponent i progs\KeySpyXP komponent i progs\demo\unit1.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

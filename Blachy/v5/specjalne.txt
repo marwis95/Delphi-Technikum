@@ -1,0 +1,19 @@
+BD 	,pojazd administracji federalnej
+BG 	,pojazd stra¿y granicznej
+BP 	,pojazd poczty federalnej
+BW 	,pojazd administracji ¿eglugowej i morskiej
+BWL 	,pojazd administracji landu Badenia - Wirtembergia
+BYL 	,pojazd administracji landu Bawaria
+DB 	,pojazd administracji niemieckich kolei
+HEL 	,pojazd administracji landu Hesja
+LSA 	,pojazd administracji landu Saksonia - Anhalt
+LSN 	,pojazd administracji landu Saksonia
+MVL 	,pojazd administracji landu Meklemburgia - Pomorze Przednie
+NL 	,pojazd administracji landu Dolna Saksonia
+NRW 	,pojazd administracji landu Nadrenia Pó³nocna - Westfalia
+RPL 	,pojaz administracji landu Nadrenia - Palatynat
+SH 	,pojazd administracji landu Szlezwik - Holsztyn
+THL 	,pojazd administracji landu Turyngia
+THW 	,pojazd administracji federalnej agencji pomocy technicznej
+X 	,pojazd si³ zbrojnych NATO
+Y 	,pojazd niemieckich si³ zbrojnych

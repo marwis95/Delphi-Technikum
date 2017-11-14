@@ -1,0 +1,56 @@
+a
+M.Praga
+M.Praga
+
+b
+Po³udniowomorawski
+Berno Morawskie
+
+c
+Po³udniowoczeski
+Czeskie Budziejowice
+
+e
+Pardubicki
+Pardubice
+
+h
+Kralovohradecki
+Hradec Królowej
+
+j
+Wysoczyzna
+Ig³awa
+
+k
+Karlowarski
+Karlowe Wary
+
+l
+Liberecki
+Liberec
+
+m
+O³omuniecki
+O³omuniec
+
+p
+Pilzneñski
+Pilzno
+
+s
+Œrodkowoczeski
+Praga
+
+t
+Morawsko-œl¹ski
+Ostrawa
+
+u
+Ujski
+Ujœcie nad £ab¹
+
+z
+Zliñski
+Zlín
+

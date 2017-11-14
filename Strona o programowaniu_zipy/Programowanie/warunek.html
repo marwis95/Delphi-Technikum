@@ -1,0 +1,49 @@
+<HTML>
+
+<HEAD>
+<meta http-equiv="Content-Language" content="pl">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<title>Warunek</title>
+<link rel="stylesheet" href="comp.css" type="text/css">
+</HEAD>
+<body>
+<center><img src="warunek_pas.jpg"></center>
+Ogólny wzór warunku w Pascalu jest taki:IF(warunek do spełnienia)THEN(polecenie gdy tak)ELSE(polecenie gdy nie)<br>
+W naszym wypadku program porównuje ze sobą dwie liczby(wynik i obstawiam)<br>
+     IF pierwsza*druga=obstawiam THEN writeln('Brawo!umiesz mnozyc!!!');<br>
+W tym miejscu program sprawdza czy ktoś dobrze obstawił wynik, jeżeli tak to wypisyje ('Brawo!...')<br>
+     IF pierwsza*druga<>obstawiam THEN writeln('A nieprawda bo');<br>
+W tej linijce kodu program wypisuje ('A nieprawda bo') tylko gdy wynik został źle obstawiony<br>
+     If pierwsza*druga<>obstawiam THEN write(wynik:5:5);<br>
+A tutaj wypisywany jest wynik(gdzy jest inny niz obstawiam)<br>
+Można by było użyć w tym programie jeszcze ELSE, ale na początek tak będzie łatwiej<br><br>
+W tym miejscu jest kod źródłowy:<br>
+
+<table border="1" width="500" height="500">
+<tr>
+<td>
+uses crt;<br>
+
+var<br>
+pierwsza:real;<br>
+druga:real;<br>
+obstawiam:real;<br>
+wynik:real;<br>
+begin<br>
+     clrscr;<br>
+     writeln('wprowadz jakas liczbe');<br>
+     read(pierwsza);<br>
+     writeln('wprowadz druga liczbe');<br>
+     read(druga);<br>
+     writeln('a teraz podaj ile to jest pierwsza liczba * druga');<br>
+     read(obstawiam);<br>
+     wynik:=pierwsza*druga;<br>
+     IF pierwsza*druga=obstawiam THEN writeln('Brawo!umiesz mnożyć!!!');<br>
+     IF pierwsza*druga<>obstawiam THEN writeln('A nieprawda bo');<br>
+     If pierwsza*druga<>obstawiam THEN write(wynik:5:5);<br>
+     repeat until keypressed;<br>
+end.<br>
+</td>
+</tr>
+</table>
+<a href="warunek.rar"><img src="download.jpg" border="0" width="150" height="100"></a>

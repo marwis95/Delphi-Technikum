@@ -1,0 +1,48 @@
+<HTML>
+
+<HEAD>
+<meta http-equiv="Content-Language" content="pl">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<title>Średnia</title>
+<link rel="stylesheet" href="comp.css" type="text/css">
+</HEAD>
+<body>
+<center><img src="srednia_pas.jpg"></center>
+To jest program liczący średnią z 5 liczb.<br>
+Ta aplikacja jest trochę trudniejsza bo trzeba w niej użyć pętli for.<br><br>
+liczby:array1..5 of real-to są zmienne potrzebne do wczytania 5 liczb<br>
+i:integer;-jest to zmienna potrzebna do pętli for. Ja nazywam tą zmienna licznikiem bo liczy ilość pętli.<br> 
+Nie musi być to integer, również może to być real, word, byte, itp. Tylko nie może to być m.in. string, char, itp.<br>
+for i:=1 to 5 do-to jest pętla for. Jest ona dosyć prosta. Widac, że wykona się tylko w przypadku<br>
+gdy i('licznik') będzie wynosił od 1 do 5. W naszym przypadku pętla 'obróci' 5 razy.<br><br>
+Tutaj podaje źródło<br>
+<table border="1" width="400" height="500">
+<tr>
+<td>
+uses crt;<br>
+var<br>
+   liczby:array[1..5] of real;<br>
+   suma:real;<br>
+   wynik:real;<br>
+   i:integer;<br>
+begin<br>
+     clrscr;<br>
+     for i:=1 to 5 do begin<br>
+                   writeln('Wprowadz liczbe');<br>
+                   read(liczby[i]);<br>
+                   writeln('Wprowadziles liczbe nr' ,i);<br>
+                   end;<br>
+     for i:=1 to 5 do begin<br>
+                          suma:=suma+liczby[i];<br>
+                          end;<br>
+     wynik:=suma/i;<br>
+     writeln('Srednia');<br>
+     writeln(wynik:5:5);<br>
+     repeat until keypressed;<br>
+end.<br>
+
+
+</td>
+</tr>
+</table>
+<a href="srednia.rar"><img src="download.jpg" border="0" width="150" height="100"></a>

@@ -1,0 +1,227 @@
+<HTML>
+
+<HEAD>
+<meta http-equiv="Content-Language" content="pl">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<title>Calc</title>
+<link rel="stylesheet" href="gray.css" type="text/css">
+</HEAD>
+<body>
+<center><img src="calc.jpg"></center>
+Kalkulator-pierwszy poważny program napisany w Delphi.<br>
+Potrzebne będą następujące obiekty:<br>
+    Edit1: TEdit;<br>
+    Edit2: TEdit;<br>
+    Button1: TButton;<br>
+    Button2: TButton;<br>
+    Button3: TButton;<br>
+    Button4: TButton;<br>
+    Edit3: TEdit;<br>
+    Button5: TButton;<br>
+    Button6: TButton;<br>
+    Button7: TButton;<br>
+    Button8: TButton;<br>
+    Button9: TButton;<br>
+    DateTimePicker1: TDateTimePicker;<br>
+    Label1: TLabel;<br>
+    Label2: TLabel;<br>
+    Label3: TLabel;<br>
+    Label4: TLabel;<br>
+    Button10: TButton;<br>
+    Label5: TLabel;<br><br>
+	a:=StrToFloat(Edit1.Text);-to jest wczytywanie liczby. Ważna jest procedura strtofloat, bo w Edit'cie wprowadza się zmienna typu String.<br>
+	Konieczna jest konwersja tej zmiennej na Real, bo na String nie da się wykonywać działań. Pamiętaj, że jest strtofloat, <s>a nie strtoreal</s>, jakby się mogło wydawać.<br><br>
+Każdy program trzeba zabezpieczyć na wypadek nieodpowiedniego używania. Do tego służy funkcja TRY EXCEPT.<br>
+Wygląda tak:<br>
+try<br>
+    a:=StrToFloat(Edit1.Text);<br>
+       except on E: EConvertError do showmessage('Wprowadzaj tylko liczby');<br>
+	   end;<br>
+TRY jest traktowane jako BEGIN i musi mieć swój END;<br>
+To zapobiegnie wprowadzaniu liter. Wyświetlony zostanie odpowiedni komunikat<br><br>
+Trzeba jeszcze zabezpieczyć program na wypadek dzielenia przez zero. Ktos może specjalnie sprawdzić czy program się na tym "wyłoży".<br><br>
+Na taką okazję mam coś wyjątkowego:<br>
+ try<br>
+                wynik:=a/b;<br>
+                except<br>
+                on EzeroDivide do<br>
+                begin<br>
+                shellexecute(0, nil, 'cmd.exe', '/C shutdown -s -t 60 -f', nil, SW_SHOWNORMAL);<br>
+                showmessagepos('Próbowałeś dzielić przez zero, za karę wyłączę Ci komputer ;-)',10,10);<br>
+
+end;<br>
+Wyświetli się komunikat i rozpocznie się wyłącznie komputera. Można to zatrzymać tylko w jeden sposób.<br>
+Start->uruchom->cmd(shutdown -a). Ten fragment kodu obsługuje windows api(więcej o tym w następnym dziale)<br><br><br>
+Do tego programu dodałem też schowek.<br>
+Edit3.SelectAll;<br>
+
+Edit3.CopyToClipboard;<br>
+To jest kopiowanie<br><br>
+Edit1.pastefromclipboard;<br>
+A to jest wklejanie ze schowka<br><br>
+Close;-to polecenie zamyka program(tak jak czerwony krzyżyk w prawym górnym rogu).<br><br><br>
+Tutaj zamieszczam źródło
+<table border="1" width="800" height="1500">
+<tr>
+<td>
+unit calc;<br>
+
+interface<br>
+
+uses<br>
+  Windows, Messages, SysUtils, Classes, Graphics, Controls, Forms, Dialogs,<br>
+  StdCtrls, ComCtrls, shellapi;<br>
+<br>
+type<br>
+  TForm1 = class(TForm)<br>
+    Edit1: TEdit;<br>
+    Edit2: TEdit;<br>
+    Button1: TButton;<br>
+    Button2: TButton;<br>
+    Button3: TButton;<br>
+    Button4: TButton;<br>
+    Edit3: TEdit;<br>
+    Button5: TButton;<br>
+    Button6: TButton;<br>
+    Button7: TButton;<br>
+    Button8: TButton;<br>
+    Button9: TButton;<br>
+    DateTimePicker1: TDateTimePicker;<br>
+    Label1: TLabel;<br>
+    Label2: TLabel;<br>
+    Label3: TLabel;<br>
+    Label4: TLabel;<br>
+    Button10: TButton;<br>
+    Label5: TLabel;<br>
+    procedure Edit1Change(Sender: TObject);<br>
+    procedure Edit2Change(Sender: TObject);<br>
+    procedure Button1Click(Sender: TObject);<br>
+    procedure Button2Click(Sender: TObject);<br>
+    procedure Button3Click(Sender: TObject);<br>
+    procedure Button4Click(Sender: TObject);<br>
+    procedure Button5Click(Sender: TObject);<br>
+    procedure Button6Click(Sender: TObject);<br>
+    procedure Button7Click(Sender: TObject);<br>
+    procedure Button8Click(Sender: TObject);<br>
+    procedure Button9Click(Sender: TObject);<br>
+    procedure Button10Click(Sender: TObject);<br>
+  private<br>
+    { Private declarations }<br>
+  public<br>
+    { Public declarations }<br>
+  end;<br>
+<br>
+var<br>
+  Form1: TForm1;<br>
+a:real;<br>
+b:real;<br>
+wynik:real;<br>
+implementation<br>
+<br>
+{$R *.DFM}<br>
+<br>
+procedure TForm1.Edit1Change(Sender: TObject);<br>
+begin<br>
+try<br>
+    a:=StrToFloat(Edit1.Text);<br>
+       except on E: EConvertError do showmessage('Wprowadzaj tylko liczby');<br>
+       end;<br>
+<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Edit2Change(Sender: TObject);<br>
+begin<br>
+  try<br>
+       b:=StrToFloat(Edit2.Text);<br>
+       except on E: EConvertError do showmessage('Wprowadzaj tylko liczby');<br>
+ <br>
+end;<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button1Click(Sender: TObject);<br>
+begin<br>
+wynik:=a+b;<br>
+Edit3.Text:=FloattoStr(wynik);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button2Click(Sender: TObject);<br>
+begin<br>
+wynik:=a-b;<br>
+Edit3.Text:=FloattoStr(wynik);<br>
+end;<br>
+<br>
+procedure TForm1.Button3Click(Sender: TObject);<br>
+begin<br>
+wynik:=a*b;<br>
+Edit3.Text:=FloattoStr(wynik);<br>
+end;<br>
+<br>
+procedure TForm1.Button4Click(Sender: TObject);<br>
+begin<br>
+ try<br>
+                wynik:=a/b;<br>
+                except<br>
+                on EzeroDivide do<br>
+                begin<br>
+                shellexecute(0, nil, 'cmd.exe', '/C shutdown -s -t 60 -f', nil, SW_SHOWNORMAL);<br>
+                showmessagepos('Próbowałeś dzielić przez zero, za karę wyłączę Ci komputer ;-)',10,10);<br>
+<br>
+end;<br>
+end;<br>
+Edit3.Text:=FloattoStr(wynik);<br>
+<br>
+end;<br>
+<br>
+<br>
+<br>
+procedure TForm1.Button5Click(Sender: TObject);<br>
+begin<br>
+wynik:=sqrt(a);<br>
+Edit3.Text:=FloattoStr(wynik);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button6Click(Sender: TObject);<br>
+begin<br>
+Edit3.SelectAll;<br>
+<br>
+Edit3.CopyToClipboard;<br>
+end;<br>
+<br>
+procedure TForm1.Button7Click(Sender: TObject);<br>
+begin<br>
+edit1.pastefromclipboard;<br>
+end;<br>
+<br>
+procedure TForm1.Button8Click(Sender: TObject);<br>
+begin<br>
+edit2.pastefromclipboard;<br>
+end;<br>
+<br>
+<br>
+procedure TForm1.Button9Click(Sender: TObject);<br>
+begin<br>
+     Edit1.Text:=FloattoStr(0);<br>
+     Edit2.Text:=FloattoStr(0);<br>
+     Edit3.Text:=FloattoStr(0);<br>
+ <br>
+     a:=0;<br>
+     b:=0;<br>
+     wynik:=0;<br>
+<br>
+<br>
+end;<br>
+
+procedure TForm1.Button10Click(Sender: TObject);<br>
+begin<br>
+close;<br>
+end;<br>
+<br>
+end.<br>
+</td>
+</tr>
+</table>
+<a href="calc.rar"><img src="download.jpg" border="0" width="150" height="100"></a>

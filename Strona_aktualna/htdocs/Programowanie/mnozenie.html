@@ -1,0 +1,48 @@
+<HTML>
+
+<HEAD>
+<meta http-equiv="Content-Language" content="pl">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<title>Mnożenie</title>
+<link rel="stylesheet" href="comp.css" type="text/css">
+</HEAD>
+<body>
+<center><img src="mnozenie_pas.jpg"></center>
+Jest to jeden z najłatwiejszych programów napisanych w Pascalu.<br>
+Ale jak na początek wystarczy<br><br>
+Wyjasnie teraz najważniejsze elementy:<br>
+pierwsza:real;-jest to zmienna zadeklarowana jako real<br>
+read(pierwsza);-w tym miejscu wczytywana jest liczba z klawiaturty<br>
+wynik:=pierwsza*druga;-tutaj wykonywane jest działanie. Zauważ że nie ma = tylko jest :=(znak podstaw)<br>
+(wynik:5:5)-to jest ograniczanie w wyniku ilości miesjc po przecinku<br><br>
+Poniżej zamieszczam gotowy kod źródłowy:<br>
+<table border="1" width="400" height="400">
+<tr>
+<td>
+uses crt;<br>
+
+var pierwsza:real;<br>
+    druga:real;<br>
+    wynik:real;<br>
+
+begin<br>
+     clrscr;<br>
+     writeln('wprowadz pierwsza liczbe');<br>
+     read(pierwsza);<br>
+     writeln('wprowadz druga liczbe');<br>
+     read(druga);<br>
+     wynik:=pierwsza*druga;<br>
+     writeln('wynik');<br>
+     writeln(wynik:5:5);<br>
+
+     repeat until keypressed;<br>
+
+end.<br>
+
+
+
+
+</td>
+</tr>
+</table>
+<a href="MNOZENIE.rar"><img src="download.jpg" border="0" width="150" height="100"></a>

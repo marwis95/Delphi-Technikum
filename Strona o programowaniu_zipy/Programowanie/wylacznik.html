@@ -1,0 +1,211 @@
+<HTML>
+
+<HEAD>
+<meta http-equiv="Content-Language" content="pl">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<title>Wyłącznik czasowy</title>
+<link rel="stylesheet" href="gray.css" type="text/css">
+</HEAD>
+<body>
+<center><img src="wylacznik.jpg"></center>
+Czasowy wyłącznik-program odwołujący się do windows API.<br>
+Potrzebne będą obiekty:<br>
+    Button1: TButton;<br>
+    Button2: TButton;<br>
+    Button3: TButton;<br>
+    Button4: TButton;<br>
+    Button5: TButton;<br>
+    Button6: TButton;<br>
+    Button7: TButton;<br>
+    Button8: TButton;<br>
+    Button9: TButton;<br>
+    Button10: TButton;<br>
+    Button11: TButton;<br>
+    Button12: TButton;<br>
+    Button13: TButton;<br>
+    Button14: TButton;<br>
+    Button15: TButton;<br>
+    Button16: TButton;<br>
+    Label1: TLabel;<br>
+    Label2: TLabel;<br>
+    Button17: TButton;<br><br>
+	Aby wyłączyć komputer trzeba dodać moduł shellapi(w Uses)<br>
+	Następnie trzeba odwołać się do cmd<br>
+	shellexecute(0, nil, 'cmd.exe', '/C shutdown -s -t 300 -f', nil, SW_SHOWNORMAL);<br>
+	Warto skopiować gdzieś tą linijkę kodu, bo można ją dowolnie modyfikować.<br>
+	Patrz obrazek poniżej(wpisz w cmd shutdown /?)<br>
+	<img src="cmd.jpg"><br>
+	Mając już umiejętność obsługi Windows API, można tak zmodyfikować ten program, że będzie mocno komuś przeszkadzał.<br>
+	Nie powiem jak, ale jeżeli sam na to wpadniesz-TO JA NIE PONOSZĘ ZA TO ŻADNEJ ODPOWIEDZIALNOŚCI.<br><br><br>
+	Kod źródłowy jest tutaj:
+<table border="1" width="800" height="1800">
+<tr>
+<td>
+unit close_win_pas;<br>
+
+interface<br>
+<br>
+uses
+  Windows, Messages, SysUtils, Classes, Graphics, Controls, Forms, Dialogs,<br>
+  StdCtrls, shellapi;<br>
+
+type<br>
+  TForm1 = class(TForm)<br>
+    Button1: TButton;<br>
+    Button2: TButton;<br>
+    Button3: TButton;<br>
+    Button4: TButton;<br>
+    Button5: TButton;<br>
+    Button6: TButton;<br>
+    Button7: TButton;<br>
+    Button8: TButton;<br>
+    Button9: TButton;<br>
+    Button10: TButton;<br>
+    Button11: TButton;<br>
+    Button12: TButton;<br>
+    Button13: TButton;<br>
+    Button14: TButton;<br>
+    Button15: TButton;<br>
+    Button16: TButton;<br>
+    Label1: TLabel;<br>
+    Label2: TLabel;<br>
+    Button17: TButton;<br>
+    procedure Button1Click(Sender: TObject);<br>
+    procedure Button2Click(Sender: TObject);<br>
+    procedure Button3Click(Sender: TObject);<br>
+    procedure Button4Click(Sender: TObject);<br>
+    procedure Button5Click(Sender: TObject);<br>
+    procedure Button6Click(Sender: TObject);<br>
+    procedure Button7Click(Sender: TObject);<br>
+    procedure Button8Click(Sender: TObject);<br>
+    procedure Button9Click(Sender: TObject);<br>
+    procedure Button10Click(Sender: TObject);<br>
+    procedure Button11Click(Sender: TObject);<br>
+    procedure Button12Click(Sender: TObject);<br>
+    procedure Button13Click(Sender: TObject);<br>
+    procedure Button14Click(Sender: TObject);<br>
+    procedure Button15Click(Sender: TObject);<br>
+    procedure Button16Click(Sender: TObject);<br>
+    procedure Button17Click(Sender: TObject);<br>
+    procedure Button18Click(Sender: TObject);<br>
+  private<br>
+    { Private declarations }<br>
+  public<br>
+    { Public declarations }<br>
+  end;<br>
+<br>
+var<br>
+  Form1: TForm1;<br>
+<br>
+implementation<br>
+<br>
+{$R *.DFM}<br>
+<br>
+procedure TForm1.Button1Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -s -t 1 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button2Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -s -t 300 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button3Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -s -t 900 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button4Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -s -t 1800 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button5Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -s -t 2700 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button6Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -s -t 3600 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button7Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -s -t 5400 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button8Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -s -t 7200 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button9Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -r -t 1 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button10Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -r -t 300 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button11Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -r -t 900 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button12Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -r -t 1800 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button13Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -r -t 2700 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button14Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -r -t 3600 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button15Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -r -t 5400 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button16Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -r -t 7200 -f', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+procedure TForm1.Button17Click(Sender: TObject);<br>
+begin<br>
+        shellexecute(0, nil, 'cmd.exe', '/C shutdown -a', nil, SW_SHOWNORMAL);<br>
+<br>
+end;<br>
+<br>
+<br>
+end.<br>
+</td>
+</tr>
+</table>
+<a href="Wylacznik czasowy.rar"><img src="download.jpg" border="0" width="150" height="100"></a>

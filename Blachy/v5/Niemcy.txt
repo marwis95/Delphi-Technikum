@@ -1,0 +1,3140 @@
+aa
+Aalen i Ostalbkreis
+Badenia - Wirtembergia
+
+bad
+Baden - Baden
+Badenia - Wirtembergia
+
+bb
+Böblingen
+Badenia - Wirtembergia
+
+bc
+Biberach
+Badenia - Wirtembergia
+
+bch
+Buchen
+Badenia - Wirtembergia
+
+bh
+Bühl
+Badenia - Wirtembergia
+
+bk
+Bicknang
+Badenia - Wirtembergia
+
+bl
+Balingen i Zollernalbkreis
+Badenia - Wirtembergia
+
+br
+Bruchsal
+Badenia - Wirtembergia
+
+büs
+Büsingen i Konstanz
+Badenia - Wirtembergia
+
+cr
+Crailsheim
+Badenia - Wirtembergia
+
+cw
+Calw
+Badenia - Wirtembergia
+
+dg
+Donaueschingen
+Badenia - Wirtembergia
+
+ds
+Donaueschingen
+Badenia - Wirtembergia
+
+ehi
+Ehingen
+Badenia - Wirtembergia
+
+em
+Emmendingen
+Badenia - Wirtembergia
+
+es
+Esslingen
+Badenia - Wirtembergia
+
+fds
+Freudenstadt
+Badenia - Wirtembergia
+
+fn
+Friedrichshafen i Bodenseekreis
+Badenia - Wirtembergia
+
+fr
+Freiburg im Breisgau i Breisgau-Hochschwarzwald
+Badenia - Wirtembergia
+
+gd
+Gmünd
+Badenia - Wirtembergia
+
+gp
+Göppingen
+Badenia - Wirtembergia
+
+hd
+Heidelberg i Rhein-Neckar-Kreis
+Badenia - Wirtembergia
+
+hdh
+Heidenheim
+Badenia - Wirtembergia
+
+hn
+Heilbronn
+Badenia - Wirtembergia
+
+hor
+Horb
+Badenia - Wirtembergia
+
+ka
+Karlsruhe
+Badenia - Wirtembergia
+
+kel
+Kehl
+Badenia - Wirtembergia
+
+kn
+Konstanz
+Badenia - Wirtembergia
+
+kün
+Küzelsau i Hohenlohekreis
+Badenia - Wirtembergia
+
+lb
+Ludwigsburg
+Badenia - Wirtembergia
+
+leo
+Leonberg
+Badenia - Wirtembergia
+
+lö
+Lörrach
+Badenia - Wirtembergia
+
+lr
+Lahr
+Badenia - Wirtembergia
+
+ma
+Mannheim
+Badenia - Wirtembergia
+
+mgh
+Bad Mergentheim
+Badenia - Wirtembergia
+
+mos
+Mosbach i Neckar-Odenwald-Kreis
+Badenia - Wirtembergia
+
+mül
+Müllheim
+Badenia - Wirtembergia
+
+mün
+Münsingen
+Badenia - Wirtembergia
+
+neu
+Neustadt Schwarzwald
+Badenia - Wirtembergia
+
+nt
+Nürtingen
+Badenia - Wirtembergia
+
+og
+Offenburg i Ortenaukreis
+Badenia - Wirtembergia
+
+öhr
+Öhringen
+Badenia - Wirtembergia
+
+pf
+Pforzheim i Enzkreis
+Badenia - Wirtembergia
+
+ra
+Ratstatt
+Badenia - Wirtembergia
+
+rt
+Reutlingen
+Badenia - Wirtembergia
+
+rv
+Ravensburg
+Badenia - Wirtembergia
+
+rw
+Rottweil
+Badenia - Wirtembergia
+
+s
+Stuttgart
+Badenia - Wirtembergia
+
+säk
+Säckingen
+Badenia - Wirtembergia
+
+sha
+Schwäbisch Hall
+Badenia - Wirtembergia
+
+sig
+Sigmaringen
+Badenia - Wirtembergia
+
+slg
+Saulgau
+Badenia - Wirtembergia
+
+snh
+Sinsheim
+Badenia - Wirtembergia
+
+sto
+Stockach
+Badenia - Wirtembergia
+
+tbb
+Tauberbischofsheim i Main - Tauber - Kreis
+Badenia - Wirtembergia
+
+tt
+Tettnang
+Badenia - Wirtembergia
+
+tü
+Tübingen
+Badenia - Wirtembergia
+
+tut
+Tuttlingen
+Badenia - Wirtembergia
+
+üb
+Überlingen
+Badenia - Wirtembergia
+
+ul
+Ulm i Alb-Donau-Kreis
+Badenia - Wirtembergia
+
+vai
+Vaihingen
+Badenia - Wirtembergia
+
+vl
+Villingen
+Badenia - Wirtembergia
+
+vs
+Villingen - Schwenningen i Schwarzwald-Baar-Kreis
+Badenia - Wirtembergia
+
+wg
+Wangen
+Badenia - Wirtembergia
+
+wn
+Waiblingen i Rems - Murr - Kreis
+Badenia - Wirtembergia
+
+wol
+Wolfach
+Badenia - Wirtembergia
+
+wt
+Waldshut
+Badenia - Wirtembergia
+
+hch
+Hechingen
+Badenia - Wirtembergia
+
+peg
+Pegnitz
+Bawraia
+
+ab
+Aschaffenburg
+Bawaria
+
+aib
+Bad Aibling
+Bawaria
+
+aic
+Aichach - Friedberg
+Bawaria
+
+alz
+Alzenau
+Bawaria
+
+am
+Amberg
+Bawaria
+
+an
+Ansbach
+Bawaria
+
+aö
+Altötting
+Bawaria
+
+as
+Amberg - Sulzbach
+Bawaria
+
+ba
+Bamberg
+Bawaria
+
+bei
+Beilingries
+Bawaria
+
+bgd
+Berchtesgaden
+Bawaria
+
+bgl
+Berchtesgardener Land
+Bawaria
+
+bog
+Bogen
+Bawaria
+
+brk
+Bad Brückenau
+Bawaria
+
+bt
+Bayreuth
+Bawaria
+
+bul
+Burglengenfeld
+Bawaria
+
+cha
+Cham
+Bawaria
+
+co
+Coburg
+Bawaria
+
+dah
+Dachau
+Bawaria
+
+deg
+Deggendorf
+Bawaria
+
+dgf
+Dingolfing - Landau
+Bawaria
+
+dkb
+Dinkelsbühl
+Bawaria
+
+dlg
+Dillingen an der Donau
+Bawaria
+
+don
+Donau - Ries
+Bawaria
+
+ebe
+Ebersberg
+Bawaria
+
+ebn
+Ebern
+Bawaria
+
+ebs
+Ebermannstadt
+Bawaria
+
+ed
+Erding
+Bawaria
+
+eg
+Eggenfelden
+Bawaria
+
+ei
+Eichstätt
+Bawaria
+
+eih
+Eichstätt
+Bawaria
+
+er
+Erlangen
+Bawaria
+
+erh
+Erlangen - Höchstadt
+Bawaria
+
+esb
+Eschenbach
+Bawaria
+
+fdb
+Friedberg bei Augsburg
+Bawaria
+
+feu
+Feuchtwangen
+Bawaria
+
+ffb
+Fürstenfeldbruck
+Bawaria
+
+fo
+Forchheim
+Bawaria
+
+frg
+Freyung - Grafenau
+Bawaria
+
+fs
+Freising
+Bawaria
+
+fü
+Fürth
+Bawaria
+
+füs
+Füssen
+Bawaria
+
+gap
+Garmisch - Partenkirchen
+Bawaria
+
+gem
+Gemünden
+Bawaria
+
+geo
+Gerolzhofen
+Bawaria
+
+gra
+Grafenau
+Bawaria
+
+gri
+Griesbach
+Bawaria
+
+gun
+Gunzenhausen
+Bawaria
+
+gz
+Günzburg
+Bawaria
+
+hab
+Hammelburg
+Bawaria
+
+has
+Haßberge
+Bawaria
+
+heb
+Hersbruck
+Bawaria
+
+hip
+Hilpoltstein
+Bawaria
+
+ho
+Hof
+Bawaria
+
+hoh
+Hofheim
+Bawaria
+
+hös
+Höchstadt
+Bawaria
+
+ill
+Illertissen
+Bawaria
+
+in
+Ingolstadt
+Bawaria
+
+kar
+Karlstadt
+Bawaria
+
+kc
+Kronach
+Bawaria
+
+ke
+Allgäu
+Bawaria
+
+keh
+Kelheim
+Bawaria
+
+kem
+Kemnath
+Bawaria
+
+kf
+Kaufbeuren
+Bawaria
+
+kg
+Bad Kissingen
+Bawaria
+
+kön
+Kötzting
+Bawaria
+
+kru
+Krumbach
+Bawaria
+
+kt
+Kitzingen
+Bawaria
+
+ku
+Kulmbach
+Bawaria
+
+la
+Landshut
+Bawaria
+
+lan
+Landau Isar
+Bawaria
+
+lau
+Lauf an der Pegnitz i Nürnberger Land
+Bawaria
+
+lf
+Laufen
+Bawaria
+
+li
+Lindau (Bodensee)
+Bawaria
+
+lif
+Lichtenfels
+Bawaria
+
+ll
+Landsberg am Lech
+Bawaria
+
+loh
+Lohr am Main
+Bawaria
+
+m
+München
+Bawaria
+
+mai
+Mainburg
+Bawaria
+
+mak
+Marktredwitz
+Bawaria
+
+mal
+Mallersdorf
+Bawaria
+
+mar
+Marktheidenfeld
+Bawaria
+
+mb
+Miesbach
+Bawaria
+
+met
+Mellrichstadt
+Bawaria
+
+mil
+Miltenberg
+Bawaria
+
+mm
+Memmingen
+Bawaria
+
+mn
+Mindelheim i Unterallgäu
+Bawaria
+
+mod
+Marktoberdorf
+Bawaria
+
+msp
+Main - Spessart-Kreis
+Bawaria
+
+mü
+Mühldorf am Inn
+Bawaria
+
+müb
+Münchberg
+Bawaria
+
+n
+Nürnberg
+Bawaria
+
+nab
+Nabburg
+Bawaria
+
+nai
+Naila
+Bawaria
+
+nd
+Neuberg an der Donau i Neuberg-Schrobenhausen
+Bawaria
+
+nea
+Neustadt an der Aisch i Bad Windsheim
+Bawaria
+
+nec
+Neustadt Coburg
+Bawaria
+
+nen
+Neunburg
+Bawaria
+
+nes
+Bad Neustadt an der Saale i Rhön-Grabfeld
+Bawaria
+
+new
+Neustadt an der Waldnaab
+Bawaria
+
+nm
+Neumarkt in der Oberpfalz
+Bawaria
+
+nö
+Nördlingen
+Bawaria
+
+nu
+Neu - Ulm
+Bawaria
+
+oa
+Oberallgäu
+Bawaria
+
+oal
+Ostallgäu
+Bawaria
+
+obb
+Obernburg
+Bawaria
+
+och
+Ochsenfurt
+Bawaria
+
+ovi
+Oberviechtach
+Bawaria
+
+pa
+Passau
+Bawaria
+
+paf
+Pfaffenhofen an der Ilm
+Bawaria
+
+pan
+Pfarrkirchen i Rottal-Inn
+Bawaria
+
+par
+Parsberg
+Bawaria
+
+r
+Regensberg
+Bawaria
+
+reg
+Regen
+Bawaria
+
+reh
+Rehau
+Bawaria
+
+rei
+Bad Reichenhall
+Bawaria
+
+rh
+Roth bei Nürnberg
+Bawaria
+
+rid
+Riedenburg
+Bawaria
+
+ro
+Rosenheim
+Bawaria
+
+rod
+Roding
+Bawaria
+
+rol
+Rottenburg Laaber
+Bawaria
+
+rot
+Rothenburg ob der Tauber
+Bawaria
+
+sad
+Schwandorf
+Bawaria
+
+san
+Stadtsteinach
+Bawaria
+
+sc
+Schwabach
+Bawaria
+
+sef
+Scheinfeld
+Bawaria
+
+sel
+Selb
+Bawaria
+
+sf
+Sonthofen
+Bawaria
+
+smü
+Schwabmünchen
+Bawaria
+
+sob
+Schrobenhausen
+Bawaria
+
+sog
+Schongau
+Bawaria
+
+sr
+Straubing i Straubing-Bogen
+Bawaria
+
+sta
+Starnberg
+Bawaria
+
+ste
+Staffelstein
+Bawaria
+
+sul
+Sulzbach - Rosenberg
+Bawaria
+
+sw
+Schweinfurt
+Bawaria
+
+tir
+Tirschenreuth
+Bawaria
+
+töl
+Bad Tölz - Wolfratshausen
+Bawaria
+
+ts
+Traunstein
+Bawaria
+
+uff
+Uffenheim
+Bawaria
+
+vib
+Vilsbiburg
+Bawaria
+
+vit
+Viechtach
+Bawaria
+
+vof
+Vilshofen
+Bawaria
+
+voh
+Vohenstrauß
+Bawaria
+
+weg
+Wegscheid
+Bawaria
+
+wen
+Weiden in der Oberpfalz
+Bawaria
+
+wer
+Wertingen
+Bawaria
+
+wm
+Weilheim - Schongau
+Bawaria
+
+wor
+Wolfratshausen
+Bawaria
+
+wos
+Wolfstein
+Bawaria
+
+ws
+Wasserburg
+Bawaria
+
+wü
+Würzburg
+Bawaria
+
+wug
+Weißenburg-Gunzenhausen
+Bawaria
+
+wum
+Waldmünchen
+Bawaria
+
+wun
+Wunsiedel am Fichtelgebirge
+Bawaria
+
+ang
+Angermünde
+Brandenburgia
+
+bar
+Eberswalde
+Brandenburgia
+
+bel
+Blezig
+Brandenburgia
+
+ber
+Bernau
+Brandenburgia
+
+brb
+Brandenburg
+Brandenburgia
+
+bsk
+Beeskow
+Brandenburgia
+
+ca
+Calau
+Brandenburgia
+
+cb
+Cottbus
+Brandenburgia
+
+ee
+Elbe - Elster
+Brandenburgia
+
+eh
+Eisenhüttenstadt
+Brandenburgia
+
+ew
+Eberswalde
+Brandenburgia
+
+ff
+Frankfurt am Oder
+Brandenburgia
+
+fi
+Finsterwalde
+Brandenburgia
+
+for
+Forst
+Brandenburgia
+
+frw
+Bad Freienwalde
+Brandenburgia
+
+fw
+Fürstenwalde
+Brandenburgia
+
+grs
+Gransee
+Brandenburgia
+
+gub
+Guben
+Brandenburgia
+
+hvl
+Havelland
+Brandenburgia
+
+hz
+Herzberg
+Brandenburgia
+
+jb
+Jüterbog
+Brandenburgia
+
+kw
+Königs - Wusterhausen
+Brandenburgia
+
+ky
+Kyritz
+Brandenburgia
+
+lc
+Luckau
+Brandenburgia
+
+lds
+Landkreis Dahme-Spreewald
+Brandenburgia
+
+lib
+Bad Liebenwerda
+Brandenburgia
+
+ln
+Lübben
+Brandenburgia
+
+los
+Landkreis Oder-Spree
+Brandenburgia
+
+luk
+Luckenwalde
+Brandenburgia
+
+mol
+Märkisch - Oderland
+Brandenburgia
+
+nau
+Nauen
+Brandenburgia
+
+np
+Neuruppin
+Brandenburgia
+
+ohv
+Oberhavel
+Brandenburgia
+
+opr
+Ostprignitz - Ruppin
+Brandenburgia
+
+or
+Oranienburg
+Brandenburgia
+
+osl
+Oberspreewald - Lausitz
+Brandenburgia
+
+p
+Potsdam
+Brandenburgia
+
+per
+Perleberg
+Brandenburgia
+
+pk
+Pritzwalk
+Brandenburgia
+
+pm
+Potsdam - Mittelmark
+Brandenburgia
+
+pr
+Prignitz
+Brandenburgia
+
+pz
+Prenzlau
+Brandenburgia
+
+rn
+Rathenow
+Brandenburgia
+
+sdt
+Schwedt
+Brandenburgia
+
+see
+Seelow
+Brandenburgia
+
+sfb
+Senftenberg
+Brandenburgia
+
+spb
+Spremberg
+Brandenburgia
+
+spn
+Spree - Neiße
+Brandenburgia
+
+srb
+Strausberg
+Brandenburgia
+
+tf
+Teltow - Fläming
+Brandenburgia
+
+tp
+Templin
+Brandenburgia
+
+um
+Uckermark
+Brandenburgia
+
+wk
+Wittstock
+Brandenburgia
+
+zs
+Zossen
+Brandenburgia
+
+alf
+Alfeld
+Dolna Saksonia
+
+asd
+Aschendorf
+Dolna Saksonia
+
+aur
+Aurich
+Dolna Saksonia
+
+bra
+Unterweser i Wesermarsch
+Dolna Saksonia
+
+brl
+Braunlage
+Dolna Saksonia
+
+brv
+Bremervörde
+Dolna Saksonia
+
+bs
+Braunschweig
+Dolna Saksonia
+
+bsb
+Bersenbrück
+Dolna Saksonia
+
+bu
+Burgdorf
+Dolna Saksonia
+
+ce
+Celle
+Dolna Saksonia
+
+clp
+Cloppenburg
+Dolna Saksonia
+
+clz
+Clausthal - Zellerfeld
+Dolna Saksonia
+
+cux
+Cuxhaven
+Dolna Saksonia
+
+dan
+Lüchow-Dannenberg
+Dolna Saksonia
+
+del
+Delmenhorst
+Dolna Saksonia
+
+dh
+Diepholz
+Dolna Saksonia
+
+dud
+Duderstadt
+Dolna Saksonia
+
+ein
+Einbeck
+Dolna Saksonia
+
+el
+Emsland
+Dolna Saksonia
+
+emd
+Emden
+Dolna Saksonia
+
+fri
+Friesland
+Dolna Saksonia
+
+gan
+Bad Gandersheim
+Dolna Saksonia
+
+gf
+Gifhorn
+Dolna Saksonia
+
+gö
+Göttingen
+Dolna Saksonia
+
+gs
+Goslar
+Dolna Saksonia
+
+h
+Hannover
+Dolna Saksonia
+
+he
+Helmstedt
+Dolna Saksonia
+
+hi
+Hildesheim
+Dolna Saksonia
+
+hm
+Hameln - Pyrmont
+Dolna Saksonia
+
+hmu
+Hanoversch Münden
+Dolna Saksonia
+
+hol
+Holzminden
+Dolna Saksonia
+
+jev
+Jever
+Dolna Saksonia
+
+ler
+Leer (Ostfriesland)
+Dolna Saksonia
+
+lg
+Lüneburg
+Dolna Saksonia
+
+lin
+Lingen
+Dolna Saksonia
+
+mel
+Melle
+Dolna Saksonia
+
+mep
+Meppen
+Dolna Saksonia
+
+ni
+Nienberg (Weser)
+Dolna Saksonia
+
+noh
+Nordhorn i Grafschaft Bentheim
+Dolna Saksonia
+
+nom
+Northeim
+Dolna Saksonia
+
+nor
+Norden
+Dolna Saksonia
+
+nrü
+Neustadt am Rübenberge
+Dolna Saksonia
+
+oha
+Osterode am Harz
+Dolna Saksonia
+
+ohz
+Osterholz
+Dolna Saksonia
+
+ol
+Oldenburg
+Dolna Saksonia
+
+os
+Osnabrück
+Dolna Saksonia
+
+ott
+Otterndorf
+Dolna Saksonia
+
+pe
+Peine
+Dolna Saksonia
+
+ri
+Rinteln
+Dolna Saksonia
+
+roh
+Rotenburg Wümme
+Dolna Saksonia
+
+row
+Rotenburg (Wümme) i Bremervörde
+Dolna Saksonia
+
+sfa
+Soltau - Fallingbostel
+Dolna Saksonia
+
+shg
+Stadthagen i Schaumburg
+Dolna Saksonia
+
+sol
+Soltau
+Dolna Saksonia
+
+spr
+Springe
+Dolna Saksonia
+
+std
+Stade
+Dolna Saksonia
+
+sth
+Stadthagen
+Dolna Saksonia
+
+sy
+Syke
+Dolna Saksonia
+
+sz
+Salzgitter
+Dolna Saksonia
+
+ue
+Uelzen
+Dolna Saksonia
+
+vec
+Vechta
+Dolna Saksonia
+
+ver
+Verden
+Dolna Saksonia
+
+wem
+Wesermünde
+Dolna Saksonia
+
+wf
+Wolfenbüttel
+Dolna Saksonia
+
+whv
+Wilhelmshaven
+Dolna Saksonia
+
+wl
+Winsen (Luhe) i Harburg
+Dolna Saksonia
+
+wob
+Wolfsburg
+Dolna Saksonia
+
+wst
+Westerstede i Ammerlan
+Dolna Saksonia
+
+wtl
+Wittlage
+Dolna Saksonia
+
+wtm
+Wittmund
+Dolna Saksonia
+
+als
+Alsfeld
+Hesja
+
+bid
+Biedenkopf
+Hesja
+
+büd
+Büdingen
+Hesja
+
+da
+Darmstadt i Darmstadt-Dieburg
+Hesja
+
+di
+Dieburg
+Hesja
+
+dil
+Dillenburg
+Hesja
+
+erb
+Erbach i Oldenwaldkreis
+Hesja
+
+esw
+Eschwege i Werra-Meißner-Kreis
+Hesja
+
+f
+Frankfurt am Main
+Hesja
+
+fb
+Hessen i Wetteraukreis
+Hesja
+
+fd
+Fulda
+Hesja
+
+fh
+Frankfurt am MainHöchst
+Hesja
+
+fkb
+Frankenberg
+Hesja
+
+fz
+Fritzlar
+Hesja
+
+gg
+Groß - Gerau
+Hesja
+
+gi
+Gießen
+Hesja
+
+gn
+Gelnhausen
+Hesja
+
+hef
+Hersfeld - Rotenburg
+Hesja
+
+hg
+Bad Homburg vor der Höhe i Hochtaunuskreis
+Hesja
+
+hog
+Hofgeismar
+Hesja
+
+hp
+Heppenheim an der Bergstraße i Bergstraße
+Hesja
+
+hr
+Homberg i Schwalm-Eder-Kreis
+Hesja
+
+hu
+Hanau i Main-Kinzig-Kreis
+Hesja
+
+kb
+Korbach i Waldeck-Frankenberg
+Hesja
+
+ks
+Kassel
+Hesja
+
+lat
+Lauterbach
+Hesja
+
+ldk
+Lahn - Dill - Kreis
+Hesja
+
+lm
+Limburg-Weilburg
+Hesja
+
+meg
+Melsungen
+Hesja
+
+mr
+Marburg - Biedenkopf
+Hesja
+
+mtk
+Main - Taunus - Kreis
+Hesja
+
+of
+Offenbach am Main
+Hesja
+
+rof
+Rotenburg bei Fulda
+Hesja
+
+rüd
+Rüdesheim i Rheingau-Taunus-Kreis
+Hesja
+
+slü
+Schlüchtern
+Hesja
+
+swa
+Bad Schwalbach i Rheingau-Taunus-Kreis
+Hesja
+
+usi
+Usingen
+Hesja
+
+vb
+Vogelsbergkreis
+Hesja
+
+wa
+Waldeck
+Hesja
+
+wel
+Weilburg
+Hesja
+
+wi
+Wiesbaden
+Hesja
+
+wiz
+Witzenhausen
+Hesja
+
+woh
+Wolfhagen
+Hesja
+
+wz
+Wetzlar
+Hesja
+
+zig
+Ziegenhain
+Hesja
+
+ank
+Anklam	 
+Meklemburgia - Pomorze Przednie
+
+at
+Alten - Treptow
+Meklemburgia - Pomorze Przednie
+
+büz
+Bützow
+Meklemburgia - Pomorze Przednie
+
+dbr
+Bad Doberan
+Meklemburgia - Pomorze Przednie
+
+dm
+Demmin
+Meklemburgia - Pomorze Przednie
+
+gdb
+Gadesbusch
+Meklemburgia - Pomorze Przednie
+
+gmn
+Grimmen
+Meklemburgia - Pomorze Przednie
+
+gü
+Güstrow
+Meklemburgia - Pomorze Przednie
+
+gvm
+Grevesmühlen
+Meklemburgia - Pomorze Przednie
+
+gw
+Greifswald Land
+Meklemburgia - Pomorze Przednie
+
+hgn
+Hagenow
+Meklemburgia - Pomorze Przednie
+
+hgw
+Hansestadt Greifswald
+Meklemburgia - Pomorze Przednie
+
+hro
+Hansestadt Rostock
+Meklemburgia - Pomorze Przednie
+
+hst
+Hansestadt Stralsund
+Meklemburgia - Pomorze Przednie
+
+hwi
+Hansestadt Wismar
+Meklemburgia - Pomorze Przednie
+
+lbz
+Lübz
+Meklemburgia - Pomorze Przednie
+
+lwl
+Ludwigslust
+Meklemburgia - Pomorze Przednie
+
+mc
+Malchin
+Meklemburgia - Pomorze Przednie
+
+mst
+Mecklenburg - Strelitz
+Meklemburgia - Pomorze Przednie
+
+mür
+Müritz
+Meklemburgia - Pomorze Przednie
+
+nb
+Neubrandenburg
+Meklemburgia - Pomorze Przednie
+
+nvp
+Nordvorpommern
+Meklemburgia - Pomorze Przednie
+
+nwm
+Nordwestmecklenburg
+Meklemburgia - Pomorze Przednie
+
+nz
+Neustrelitz
+Meklemburgia - Pomorze Przednie
+
+ovp
+Ostvorpommern
+Meklemburgia - Pomorze Przednie
+
+pch
+Parchim
+Meklemburgia - Pomorze Przednie
+
+pw
+Pasewalk
+Meklemburgia - Pomorze Przednie
+
+rdg
+Ribnitz - Damgarten
+Meklemburgia - Pomorze Przednie
+
+rm
+RöbelMuritz
+Meklemburgia - Pomorze Przednie
+
+ros
+Rostock Land
+Meklemburgia - Pomorze Przednie
+
+rüg
+Rügen
+Meklemburgia - Pomorze Przednie
+
+sbg
+Strasburg
+Meklemburgia - Pomorze Przednie
+
+sn
+Schwerin
+Meklemburgia - Pomorze Przednie
+
+stb
+Sternberg
+Meklemburgia - Pomorze Przednie
+
+te
+Teterow
+Meklemburgia - Pomorze Przednie
+
+uem
+Ueckermünde
+Meklemburgia - Pomorze Przednie
+
+
+uer
+Uecker-Randow
+Meklemburgia - Pomorze Przednie
+
+wlg
+Wolgast
+Meklemburgia - Pomorze Przednie
+
+wrn
+Waren
+Meklemburgia - Pomorze Przednie
+
+ak
+Altenkirchen (Westerwald)
+Nadrenia - Palatynat
+
+aw
+Ahrweiler
+Nadrenia - Palatynat
+
+az
+Alzey - Worms
+Nadrenia - Palatynat
+
+bin
+Bingen
+Nadrenia - Palatynat
+
+bir
+Birkenfeld
+Nadrenia - Palatynat
+
+bit
+Bitburg - Prüm
+Nadrenia - Palatynat
+
+bks
+Bernkastel
+Nadrenia - Palatynat
+
+bza
+Bergzabern
+Nadrenia - Palatynat
+
+coc
+Cochem - Zell
+Nadrenia - Palatynat
+
+dau
+Daun
+Nadrenia - Palatynat
+
+diz
+Diez
+Nadrenia - Palatynat
+
+düw
+Bad Dürkheim i Weinstraße
+Nadrenia - Palatynat
+
+ems
+Bad Ems i Rhein-Lahn-Kreis
+Nadrenia - Palatynat
+
+ft
+Pfalz
+Nadrenia - Palatynat
+
+ger
+Germersheim
+Nadrenia - Palatynat
+
+kh
+Bad Kreuznach
+Nadrenia - Palatynat
+
+kib
+Kirchheimbolanden i Donnersbergkreis
+Nadrenia - Palatynat
+
+kl
+Kaiserslauten
+Nadrenia - Palatynat
+
+ko
+Koblenz
+Nadrenia - Palatynat
+
+kus
+Kusel
+Nadrenia - Palatynat
+
+ld
+Landau in der Pfalz
+Nadrenia - Palatynat
+
+lu
+Ludwigshafen am Rhein
+Nadrenia - Palatynat
+
+mt
+Montabaur
+Nadrenia - Palatynat
+
+my
+Mayen
+Nadrenia - Palatynat
+
+myk
+Mayen-Koblenz
+Nadrenia - Palatynat
+
+mz
+Mainz i Mainz-Bingen
+Nadrenia - Palatynat
+
+nr
+Neuwied am Rhein
+Nadrenia - Palatynat
+
+nw
+Neustadt an der Weinstraße
+Nadrenia - Palatynat
+
+prü
+Prüm
+Nadrenia - Palatynat
+
+ps
+Pirmasens i Südwestpfalz
+Nadrenia - Palatynat
+
+rok
+Rockenhausen
+Nadrenia - Palatynat
+
+sab
+Saarburg
+Nadrenia - Palatynat
+
+sim
+Simmern i Rhein-Hunsrück - Kreis
+Nadrenia - Palatynat
+
+sp
+Speyer
+Nadrenia - Palatynat
+
+süw
+Südliche Weinstraße
+Nadrenia - Palatynat
+
+tr
+Trier
+Nadrenia - Palatynat
+
+web
+Westerburg
+Nadrenia - Palatynat
+
+wil
+Wittlich i Bernkastel-Wittlich
+Nadrenia - Palatynat
+
+wo
+Worms
+Nadrenia - Palatynat
+
+ww
+Westerwaldkreis
+Nadrenia - Palatynat
+
+zel
+Zell
+Nadrenia - Palatynat
+
+zw
+Zweibrücken
+Nadrenia - Palatynat
+
+ac
+Aachen
+Nadrenia Pó³nocna - Westfalia
+
+ah
+Ahaus
+Nadrenia Pó³nocna - Westfalia
+
+al
+Altena
+Nadrenia Pó³nocna - Westfalia
+
+ar
+Arnsberg
+Nadrenia Pó³nocna - Westfalia
+
+be
+Bechum
+Nadrenia Pó³nocna - Westfalia
+
+bf
+Burgsteinfurt
+Nadrenia Pó³nocna - Westfalia
+
+bi
+Bielefeld
+Nadrenia Pó³nocna - Westfalia
+
+blb
+Bad Berleburg
+Nadrenia Pó³nocna - Westfalia
+
+bm
+Bergheim i Erftkreis
+Nadrenia Pó³nocna - Westfalia
+
+bn
+Bonn
+Nadrenia Pó³nocna - Westfalia
+
+bo
+Bochum
+Nadrenia Pó³nocna - Westfalia
+
+boh
+Bocholt
+Nadrenia Pó³nocna - Westfalia
+
+bor
+Borken
+Nadrenia Pó³nocna - Westfalia
+
+bot
+Bottrop
+Nadrenia Pó³nocna - Westfalia
+
+bri
+Brilon
+Nadrenia Pó³nocna - Westfalia
+
+bur
+Buren
+Nadrenia Pó³nocna - Westfalia
+
+cas
+Castrop - Rauxel
+Nadrenia Pó³nocna - Westfalia
+
+coe
+Coesfeld
+Nadrenia Pó³nocna - Westfalia
+
+d
+Düsseldorf
+Nadrenia Pó³nocna - Westfalia
+
+din
+Dinslaken
+Nadrenia Pó³nocna - Westfalia
+
+dn
+Düren
+Nadrenia Pó³nocna - Westfalia
+
+do
+Dortmund
+Nadrenia Pó³nocna - Westfalia
+
+dt
+Detmold i Lippe
+Nadrenia Pó³nocna - Westfalia
+
+du
+Duisburg
+Nadrenia Pó³nocna - Westfalia
+
+e
+Essen
+Nadrenia Pó³nocna - Westfalia
+
+en
+Ennepe - Ruhr-Kreis
+Nadrenia Pó³nocna - Westfalia
+
+erk
+Erkelenz
+Nadrenia Pó³nocna - Westfalia
+
+eu
+Euskirchen
+Nadrenia Pó³nocna - Westfalia
+
+fal
+Fallingbostel
+Nadrenia Pó³nocna - Westfalia
+
+ge
+Gelsenkirchen
+Nadrenia Pó³nocna - Westfalia
+
+gel
+Geldern
+Nadrenia Pó³nocna - Westfalia
+
+gk
+Geilenkirchen
+Nadrenia Pó³nocna - Westfalia
+
+gl
+Bergisch-Gladbach i Rheinisch-Bergischer Kreis
+Nadrenia Pó³nocna - Westfalia
+
+gla
+Gladbeck
+Nadrenia Pó³nocna - Westfalia
+
+gm
+Gummersbach i Oberbergischer Kreis
+Nadrenia Pó³nocna - Westfalia
+
+gt
+Gütersloh
+Nadrenia Pó³nocna - Westfalia
+
+gv
+Gravenbroich
+Nadrenia Pó³nocna - Westfalia
+
+ha
+Hagen
+Nadrenia Pó³nocna - Westfalia
+
+ham
+Hamm
+Nadrenia Pó³nocna - Westfalia
+
+her
+Herne
+Nadrenia Pó³nocna - Westfalia
+
+hf
+Herford
+Nadrenia Pó³nocna - Westfalia
+
+hs
+Heinsberg
+Nadrenia Pó³nocna - Westfalia
+
+hsk
+Hochsauerlandkreis
+Nadrenia Pó³nocna - Westfalia
+
+hw
+Halle Westfalen
+Nadrenia Pó³nocna - Westfalia
+
+hx
+Höxter
+Nadrenia Pó³nocna - Westfalia
+
+is
+Iserlohn
+Nadrenia Pó³nocna - Westfalia
+
+jül
+Jülich
+Nadrenia Pó³nocna - Westfalia
+
+k
+Köln
+Nadrenia Pó³nocna - Westfalia
+
+kk
+Kempen - Krefeld
+Nadrenia Pó³nocna - Westfalia
+
+kle
+Kleve
+Nadrenia Pó³nocna - Westfalia
+
+kr
+Krefeld
+Nadrenia Pó³nocna - Westfalia
+
+le
+Lemgo
+Nadrenia Pó³nocna - Westfalia
+
+lev
+Leverkusen
+Nadrenia Pó³nocna - Westfalia
+
+lh
+Lüdinghausen
+Nadrenia Pó³nocna - Westfalia
+
+lip
+Lippe
+Nadrenia Pó³nocna - Westfalia
+
+lk
+Lübbecke
+Nadrenia Pó³nocna - Westfalia
+
+lp
+Lippstadt
+Nadrenia Pó³nocna - Westfalia
+
+ls
+Lüdenscheid
+Nadrenia Pó³nocna - Westfalia
+
+lüd
+Lüdenscheid
+Nadrenia Pó³nocna - Westfalia
+
+lün
+Lünen
+Nadrenia Pó³nocna - Westfalia
+
+me
+Mettmann
+Nadrenia Pó³nocna - Westfalia
+
+mes
+Meschede
+Nadrenia Pó³nocna - Westfalia
+
+mg
+Mönchengladbach
+Nadrenia Pó³nocna - Westfalia
+
+mh
+Mülheim an der Ruhr
+Nadrenia Pó³nocna - Westfalia
+
+mi
+Minden - Lübbecke
+Nadrenia Pó³nocna - Westfalia
+
+mk
+Märkischer Kreis
+Nadrenia Pó³nocna - Westfalia
+
+mo
+Moers
+Nadrenia Pó³nocna - Westfalia
+
+mon
+Monschau
+Nadrenia Pó³nocna - Westfalia
+
+ms
+Münster
+Nadrenia Pó³nocna - Westfalia
+
+ne
+Neuss
+Nadrenia Pó³nocna - Westfalia
+
+ob
+Oberhausen
+Nadrenia Pó³nocna - Westfalia
+
+oe
+Olpe
+Nadrenia Pó³nocna - Westfalia
+
+op
+Opladen
+Nadrenia Pó³nocna - Westfalia
+
+pb
+Paderborn
+Nadrenia Pó³nocna - Westfalia
+
+re
+Recklinghausen
+Nadrenia Pó³nocna - Westfalia
+
+rs
+Remscheid
+Nadrenia Pó³nocna - Westfalia
+
+ry
+Rheydt
+Nadrenia Pó³nocna - Westfalia
+
+sg
+Solingen
+Nadrenia Pó³nocna - Westfalia
+
+si
+Siegen - Wittgenstein
+Nadrenia Pó³nocna - Westfalia
+
+sle
+Schleiden (Eifel)
+Nadrenia Pó³nocna - Westfalia
+
+so
+Soest
+Nadrenia Pó³nocna - Westfalia
+
+st
+Steinfurt
+Nadrenia Pó³nocna - Westfalia
+
+su
+Siegburg i Rhein-Sieg-Kreis
+Nadrenia Pó³nocna - Westfalia
+
+un
+Unna
+Nadrenia Pó³nocna - Westfalia
+
+vie
+Viersen
+Nadrenia Pó³nocna - Westfalia
+
+w
+Wuppertal
+Nadrenia Pó³nocna - Westfalia
+
+waf
+Kreis Warendorf
+Nadrenia Pó³nocna - Westfalia
+
+wan
+Wanne - Eickel
+Nadrenia Pó³nocna - Westfalia
+
+war
+Warburg
+Nadrenia Pó³nocna - Westfalia
+
+wat
+Wattenscheid
+Nadrenia Pó³nocna - Westfalia
+
+wd
+Weidenbrück
+Nadrenia Pó³nocna - Westfalia
+
+wes
+Wesel
+Nadrenia Pó³nocna - Westfalia
+
+wit
+Witten
+Nadrenia Pó³nocna - Westfalia
+
+goa
+St Goar
+Rheinland Palatinate
+
+goh
+St Goarshausen
+Rheinland Palatinate
+
+hom
+Homburg i Saar-Pfalz-Kreis
+Saara
+
+igb
+Stadt St Ingbert i Saar-Pfalz-Kreis
+Saara
+
+mzg
+Merzig - Wadern
+Saara
+
+nk
+NeunkirchenSaar
+Saara
+
+otw
+Ottweiler
+Saara
+
+sb
+Saarbrücken
+Saara
+
+sls
+Saarlouis
+Saara
+
+vk
+Völklingen
+Saara
+
+wnd
+St Wendel
+Saara
+
+ae
+Auerbach
+Saksonia
+
+ana
+Annaberg - Buchholz
+Saksonia
+
+asz
+Aue - Schwarzenberg
+Saksonia
+
+au
+Aue
+Saksonia
+
+bed
+Brand - Erbisdorf
+Saksonia
+
+biw
+Bischofswerda
+Saksonia
+
+bna
+Borna
+Saksonia
+
+bz
+Bautzen
+Saksonia
+
+c
+Chemnitz
+Saksonia
+
+chl
+Chemnitzer Land i  Kreis Glochau
+Saksonia
+
+ct
+Cottbus
+Saksonia
+
+dl
+Döbeln
+Saksonia
+
+dw
+Dippoldiswalde i Weißeritzkreis
+Saksonia
+
+dz
+Delitzsch
+Saksonia
+
+eb
+Eilenburg
+Saksonia
+
+fg
+Freiberg
+Saksonia
+
+flö
+Flöha
+Saksonia
+
+ftl
+Freital
+Saksonia
+
+gc
+Glauchau i Chemnitzer Land
+Saksonia
+
+gha
+Geithain
+Saksonia
+
+gr
+Görlitz
+Saksonia
+
+grm
+Grimma
+Saksonia
+
+hc
+Hainichen
+Saksonia
+
+hot
+Hohenstein - Ernstthal
+Saksonia
+
+hy
+Hoyerswerda
+Saksonia
+
+klt
+Klingental
+Saksonia
+
+km
+Kamenz
+Saksonia
+
+l
+Leipzig
+Saksonia
+
+löb
+Löbau
+Saksonia
+
+mab
+Marienberg
+Saksonia
+
+mei
+Meissen
+Saksonia
+
+mek
+Mittlerer Erzgebirgskreis
+Saksonia
+
+mtl
+Muldentalkreis
+Saksonia
+
+mw
+Mittweida
+Saksonia
+
+nol
+Niederschlesischer Oberlausitzkreis
+Saksonia
+
+ny
+Niesky
+Saksonia
+
+oc
+Oschersleben
+Saksonia
+
+ovl
+Obervogtland
+Saksonia
+
+oz
+Oschatz
+Saksonia
+
+pir
+Pirna
+Saksonia
+
+pl
+Plauen
+Saksonia
+
+rc
+Reichenbach
+Saksonia
+
+rg
+Riesa - Großenhain
+Saksonia
+
+rie
+Riesa
+Saksonia
+
+rl
+Rochlitz
+Saksonia
+
+seb
+Sebnitz
+Saksonia
+
+stl
+Stollberg
+Saksonia
+
+szb
+Schwarzenberg
+Saksonia
+
+tg
+Torgau
+Saksonia
+
+to
+Torgau - Oschatz
+Saksonia
+
+v
+Vogtlandkreis
+Saksonia
+
+wda
+Werdau
+Saksonia
+
+wsw
+Weißwasser
+Saksonia
+
+wur
+Wurzen
+Saksonia
+
+z
+Zwickauer Land
+Saksonia
+
+zp
+Zschopau
+Saksonia
+
+asl
+Aschersleben - Staßfurter Landkreis
+Saksonia - Anhalt
+
+aze
+Anhalt - Zerbst
+Saksonia - Anhalt
+
+bbg
+Bernburg
+Saksonia - Anhalt
+
+blk
+Burgenlandkreis
+Saksonia - Anhalt
+
+bö
+Bördekreis
+Saksonia - Anhalt
+
+brg
+Burg
+Saksonia - Anhalt
+
+btf
+Bitterfeld
+Saksonia - Anhalt
+
+de
+Dessau
+Saksonia - Anhalt
+
+eil
+Eisleben
+Saksonia - Anhalt
+
+hal
+Halle
+Saksonia - Anhalt
+
+hbs
+Halberstadt
+Saksonia - Anhalt
+
+jl
+Jerichower Land
+Saksonia - Anhalt
+
+köt
+Köthen
+Saksonia - Anhalt
+
+md
+Magdeburg
+Saksonia - Anhalt
+
+ml
+Mansfelder Land
+Saksonia - Anhalt
+
+mq
+Merseburg - Querfurt
+Saksonia - Anhalt
+
+ok
+Ohre - Kreis
+Saksonia - Anhalt
+
+qlb
+Quedlinburg
+Saksonia - Anhalt
+
+saw
+Altmarkkreis Salzwedel
+Saksonia - Anhalt
+
+sbk
+Schönebeck
+Saksonia - Anhalt
+
+sdl
+Stendal
+Saksonia - Anhalt
+
+sgh
+Sangerhausen
+Saksonia - Anhalt
+
+sk
+Saalkreis
+Saksonia - Anhalt
+
+wb
+Wittenberg
+Saksonia - Anhalt
+
+wr
+Wernigerode
+Saksonia - Anhalt
+
+wsf
+Weißenfels
+Saksonia - Anhalt
+
+ze
+Zerbst
+Saksonia - Anhalt
+
+ga
+Gardelegen
+Saksonia - Anhalt
+
+ghc
+Gräfenhainichen
+Saksonia Anhalt
+
+gnt
+Genthin
+Saksonia - Anhalt
+
+hdl
+Haldensleben
+Saksonia - Anhalt
+
+het
+Hettstedt
+Saksonia Anhalt
+
+hhm
+Hohenmölsen
+Saksonia Anhalt
+
+hv
+Havelberg
+Saksonia Anhalt
+
+je
+Jessen
+Saksonia Anhalt
+
+klz
+Klötze
+Saksonia Anhalt
+
+mer
+Merseburg
+Saksonia Anhalt
+
+neb
+Nebra
+Saksonia Anhalt
+
+nmb
+Naumberg
+Saksonia Anhalt
+
+obg
+Osterburg
+Saksonia Anhalt
+
+qft
+Querfurt
+Saksonia Anhalt
+
+rsl
+Roßlau
+Saksonia Anhalt
+
+sft
+Staßfurt
+Saksonia Anhalt
+
+wms
+Wolmirstedt
+Saksonia Anhalt
+
+wzl
+Wanzleben
+Saksonia Anhalt
+
+zz
+Zeitz
+Saksonia Anhalt
+
+eck
+Eckernförde
+Szlezwik - Holsztyn
+
+eut
+Eutin
+Szlezwik - Holsztyn
+
+fl
+Flensburg
+Szlezwik - Holsztyn
+
+hei
+Heide i Dithmarschen
+Szlezwik - Holsztyn
+
+hün
+Hünfeld
+Szlezwik - Holsztyn
+
+hus
+Husum
+Szlezwik - Holsztyn
+
+iz
+Itzehoe i Steinburg
+Szlezwik - Holsztyn
+
+ki
+Kiel
+Szlezwik - Holsztyn
+
+med
+Meldorf
+Szlezwik - Holsztyn
+
+nf
+Nordfriesland
+Szlezwik - Holsztyn
+
+nib
+Niebüll
+Szlezwik - Holsztyn
+
+nms
+Neumünster
+Szlezwik - Holsztyn
+
+od
+Bad Oldesloe i Stormarn
+Szlezwik - Holsztyn
+
+oh
+Ostholstein
+Szlezwik - Holsztyn
+
+old
+Oldenburg (Holstein)
+Szlezwik - Holsztyn
+
+pi
+Pinneberg
+Szlezwik - Holsztyn
+
+plö
+Plön
+Szlezwik - Holsztyn
+
+rd
+Rendsburg - Eckernförde
+Szlezwik - Holsztyn
+
+rz
+Ratzeburg i Hertzogtum Lauenburg
+Szlezwik - Holsztyn
+
+se
+Segeberg
+Szlezwik - Holsztyn
+
+sl
+Schleswig - Flensburg
+Szlezwik - Holsztyn
+
+tön
+Tönning
+Szlezwik - Holsztyn
+
+abg
+Altenburger Land
+Turyngia
+
+ap
+Apolda i Weimarer Land
+Turyngia
+
+apd
+Apolda
+Turyngia
+
+arn
+Arnstadt
+Turyngia
+
+art
+Artern
+Turyngia
+
+ea
+Eisenach
+Turyngia
+
+ef
+Erfurt
+Turyngia
+
+eic
+Eichsfeld
+Turyngia
+
+esa
+Eisenach
+Turyngia
+
+g
+Gera
+Turyngia
+
+grz
+Greiz
+Turyngia
+
+gth
+Gotha
+Turyngia
+
+hbn
+Hildburghausen
+Turyngia
+
+hig
+Heiligenstadt
+Turyngia
+
+ik
+Ilm - Kreis
+Turyngia
+
+il
+Ilmenau
+Turyngia
+
+j
+Jena
+Turyngia
+
+kyf
+Kyffhäuserkreis
+Turyngia
+
+lbs
+Lobenstein
+Turyngia
+
+lsz
+Bad Langensalza
+Turyngia
+
+mgn
+Meiningen
+Turyngia
+
+ndh
+Nordhausen
+Turyngia
+
+nh
+Neuhaus an der Rennweg
+Turyngia
+
+pn
+Pößneck
+Turyngia
+
+scz
+Schleiz
+Turyngia
+
+sdh
+Sondershausen
+Turyngia
+
+shk
+Saale - Holzland-Kreis
+Turyngia
+
+shl
+Suhl
+Turyngia
+
+slf
+Saalfeld - Rudolstadt
+Turyngia
+
+sln
+Schmölin
+Turyngia
+
+slz
+Bad Salzungen
+Turyngia
+
+sm
+Schmalkalden - Meiningen
+Turyngia
+
+sok
+Saale - Orla - Kreis
+Turyngia
+
+söm
+Sömmerda
+Turyngia
+
+son
+Sonneberg
+Turyngia
+
+sro
+Stadtroda
+Turyngia
+
+uh
+Unstrut-Hainich
+Turyngia
+
+wak
+Wartburgkreis
+Turyngia
+
+wbs
+Worbis
+Turyngia
+
+we
+Weimar
+Turyngia
+
+zr
+Zeulenroda
+Turyngia
+
+a
+Augsburg
+M.Augsburg 
+
+b
+Berlin
+M.Berlin
+
+dd
+Dresden
+M.Dresden
+
+eis
+Eisenberg
+M.Eisenberg
+
+grh
+Grossenheim
+M.Grossenheim
+
+hb
+Hansestadt Bremen
+M.Hansestadt Bremen
+
+hh
+Hansestadt Hamburg
+M.Hansestadt Hamburg
+
+hl
+Hansestadt Lübeck
+M.Hansestadt Lübeck
+
+koz
+Kotzting
+M.Kotzting
+
+zi
+Löbau - Zittau
+M.Löbau - Zittau
+
+mhl
+Mühlhausen
+M.Mühlhausen
+
+ru
+Rudolstadt
+M.Rudolstadt
+
+sao
+Saale - Orla Kreis
+M.Saale - Orla Kreis
+
+shs
+Sangerhausen
+M.Sangerhausen
+
+swz
+Schwarzakreis
+M.Schwarzakreis
+
+tgo
+Thurgau - Oschatz
+M.Thurgau - Oschatz
+
+wei
+Weimarer Land (Kreis Apolda)
+M.Weimarer Land (Kreis Apolda)
+
+wam
+Westliche Altmark
+M.Westliche Altmark
+
+wis
+Wismarer Land
+M.Wismarer Land
+
+bbl
+Pojazdy admistracji landu Brandenburgia
+Pojazd specjalny
+
+rwl
+Pojazd administracji landu Nadrenia Pó³nocna - Westfalia
+Pojazd specjalny
+
+sal
+Pojazdy administracji landu Saara
+Pojazd specjalny
+
+bd
+pojazd administracji federalnej
+Pojazd specjalny
+
+bg
+pojazd stra¿y granicznej
+Pojazd specjalny
+
+bp
+pojazd poczty federalnej
+Pojazd specjalny
+
+bw
+pojazd administracji ¿eglugowej i morskiej
+Pojazd specjalny
+
+bwl
+pojazd administracji landu Badenia - Wirtembergia
+Pojazd specjalny
+
+byl
+pojazd administracji landu Bawaria
+Pojazd specjalny
+
+db
+pojazd administracji niemieckich kolei
+Pojazd specjalny
+
+hel
+pojazd administracji landu Hesja
+Pojazd specjalny
+
+lsa
+pojazd administracji landu Saksonia - Anhalt
+Pojazd specjalny
+
+lsn
+pojazd administracji landu Saksonia
+Pojazd specjalny
+
+mvl
+pojazd administracji landu Meklemburgia - Pomorze Przednie
+Pojazd specjalny
+
+nl
+pojazd administracji landu Dolna Saksonia
+Pojazd specjalny
+
+nrw
+pojazd administracji landu Nadrenia Pó³nocna - Westfalia
+Pojazd specjalny
+
+rpl
+pojazd administracji landu Nadrenia - Palatynat
+Pojazd specjalny
+
+sh
+pojazd administracji landu Szlezwik - Holsztyn
+Pojazd specjalny
+
+thl
+pojazd administracji landu Turyngia
+Pojazd specjalny
+
+thw
+pojazd administracji federalnej agencji pomocy technicznej
+Pojazd specjalny
+
+x
+pojazd si³ zbrojnych NATO
+Pojazd specjalny
+
+y
+pojazd niemieckich si³ zbrojnych
+Pojazd specjalny

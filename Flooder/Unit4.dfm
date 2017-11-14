@@ -1,0 +1,260 @@
+object Form4: TForm4
+  Left = 907
+  Top = 177
+  Width = 507
+  Height = 491
+  BorderIcons = []
+  Caption = 'Help3'
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 8
+    Top = 8
+    Width = 431
+    Height = 24
+    Caption = 'Teraz najtrudniejsze- musisz wprowadzi'#263' sw'#243'j host.'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 8
+    Top = 32
+    Width = 468
+    Height = 24
+    Caption = 'Poni'#380'ej jest lista host w zale'#380'no'#347'ci na czym masz e-mail.'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 64
+    Top = 72
+    Width = 54
+    Height = 24
+    Caption = 'Strona'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 304
+    Top = 72
+    Width = 38
+    Height = 24
+    Caption = 'Host'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label5: TLabel
+    Left = 64
+    Top = 112
+    Width = 15
+    Height = 16
+    Caption = 'o2'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label6: TLabel
+    Left = 304
+    Top = 112
+    Width = 72
+    Height = 16
+    Caption = 'poczta.o2.pl'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label7: TLabel
+    Left = 64
+    Top = 144
+    Width = 17
+    Height = 16
+    Caption = 'wp'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label8: TLabel
+    Left = 304
+    Top = 144
+    Width = 63
+    Height = 16
+    Caption = 'smtp.wp.pl'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label9: TLabel
+    Left = 64
+    Top = 176
+    Width = 36
+    Height = 16
+    Caption = 'Interia'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label10: TLabel
+    Left = 304
+    Top = 176
+    Width = 93
+    Height = 16
+    Caption = 'poczta.interia.pl'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label11: TLabel
+    Left = 64
+    Top = 208
+    Width = 28
+    Height = 16
+    Caption = 'Onet'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label12: TLabel
+    Left = 304
+    Top = 208
+    Width = 115
+    Height = 16
+    Caption = 'smtp.poczta.onet.pl'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label13: TLabel
+    Left = 64
+    Top = 240
+    Width = 35
+    Height = 16
+    Caption = 'Gmail'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label14: TLabel
+    Left = 304
+    Top = 240
+    Width = 94
+    Height = 16
+    Caption = 'smtp.gmail.com'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label15: TLabel
+    Left = 16
+    Top = 384
+    Width = 423
+    Height = 20
+    Caption = 'Je'#380'eli o czym'#347' zapomnia'#322'em poinformuj mnie, to dopisz'#281'.'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -16
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label16: TLabel
+    Left = 16
+    Top = 288
+    Width = 436
+    Height = 24
+    Caption = 'Np. je'#380'eli masz konto na wp to wpisujesz smtp.wp.pl'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label17: TLabel
+    Left = 16
+    Top = 312
+    Width = 315
+    Height = 24
+    Caption = 'To jest lista najpopularniejszych stron.'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label18: TLabel
+    Left = 16
+    Top = 336
+    Width = 455
+    Height = 24
+    Caption = 'Jak masz konto na czym'#347' innym musisz sam doczyta'#263'.'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'MS Sans Serif'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Button1: TButton
+    Left = 192
+    Top = 416
+    Width = 75
+    Height = 25
+    Caption = 'Ok'
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+end

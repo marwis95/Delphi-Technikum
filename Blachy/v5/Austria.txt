@@ -1,0 +1,287 @@
+am
+Amstetten
+
+b
+Bregenz
+
+ba
+Bad Aussee
+
+bl
+Bruck an der Leitha
+
+bm
+Bruck an der Mur
+
+bn
+Baden bei Wien
+
+br
+Braunau am Inn
+
+bz
+Bludenz
+
+dl
+Deutschlandsberg
+
+do
+Dornbirn
+
+e
+Eisenstadt
+
+ef
+Eferding
+
+eu
+Eisenstadt - region
+
+fb
+Feldbach
+
+fe
+Feldkirchen
+
+ff
+Fürstenfeld
+
+fk
+Feldkirch
+
+fr
+Freistadt
+
+g
+Graz
+
+gb
+Gröbming
+
+gd
+Gmünd
+
+gf
+Gänserndorf
+
+gm
+Gmunden
+
+gr
+Grieskirchen
+
+gs
+Güssing
+
+gu
+Graz - region
+
+hb
+Hartberg
+
+hl
+Hollabrunn
+
+ho
+Horn
+
+i
+Innsbruck
+
+il
+Innsbruck - region
+
+im
+Imst
+
+je
+Jennbach
+
+jo
+St. Johann im Pongau
+
+ju
+Judenburg
+
+k
+Klagenfurt
+
+kb
+Kitzbühel
+
+kf
+Knittelfeld
+
+ko
+Korneuburg
+
+kr
+Krems-Region
+
+ks
+Krems an der Donau
+
+ku
+Kufstein
+
+l
+Linz
+
+la
+Landeck
+
+lb
+Leibnitz
+
+le
+Leoben
+
+lf
+Lilienfeld
+
+li
+Liezen
+
+ll
+Linz Land
+
+ln
+Leoben - region
+
+lz
+Lienz
+
+ma
+Mattersburg
+
+md
+Mödling
+
+me
+Melk
+
+mi
+Mistelbach
+
+mu
+Murau
+
+mz
+Mürzzuschlag
+
+nd
+Neusiedl am See
+
+nk
+Neunkirchen
+
+op
+Oberpullendorf
+
+ow
+Oberwart
+
+p
+St. Pölten
+
+pe
+Perg
+
+pl
+St.Pölten - region
+
+ra
+Bad Radkersburg
+
+re
+Reutte
+
+ri
+Ried im Innkreis
+
+ro
+Rohrbach
+
+s
+Salzburg
+
+sd
+Schärding
+
+se
+Steyr-Land
+
+sl
+Salzburg - region
+
+sp
+Spittal an der Drau
+
+sr
+Steyr
+
+sv
+St. Veit an der Glan
+
+sw
+Schwechat
+
+sz
+Schwaz
+
+ta
+Tamsweg
+
+tu
+Tulln
+
+uu
+Urfahr - region
+
+vb
+Vöklabruck
+
+vi
+Villach
+
+vk
+Völkermarkt
+
+vl
+Villach - region
+
+vo
+Voitsberg
+
+w
+Vienna
+
+wb
+Wiener Neustadt - okolice
+
+we
+Wels
+
+wl
+Wels Land
+
+wo
+Wolfsberg
+
+wt
+Waidhofen an der Thaya
+
+wu
+Wien-Umgebung
+
+wy
+Waidhofen an der Ybbs
+
+wz
+Weiz
+
+ze
+Zell am See
+
+zt
+Zwettl
